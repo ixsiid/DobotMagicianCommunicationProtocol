@@ -1,0 +1,22 @@
+{
+  "name": "dobot",
+  "version": "1.0.0",
+  "description": "Dobot Magician Communication Protocol",
+  "main": "dobot.mjs",
+  "scripts": {
+    "test": "node sample/sample.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixsiid/DobotMagicianCommunicationProtocol.git"
+  },
+  "author": "ixsiid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixsiid/DobotMagicianCommunicationProtocol/issues"
+  },
+  "homepage": "https://github.com/ixsiid/DobotMagicianCommunicationProtocol#readme",
+  "dependencies": {
+    "serialport": "^10.5.0"
+  }
+}
